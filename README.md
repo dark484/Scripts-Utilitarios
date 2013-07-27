@@ -1,4 +1,4 @@
-Organizador.bat
+Scripts Utilitarios
 ===============
 
-Prueba de archivo bat que inicie el wmp
+Prueba de scripts utiles
