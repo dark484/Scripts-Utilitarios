@@ -1,0 +1,5 @@
+#Abrir archivo en editor de texto
+"${VISUAL:-gedit}" archivo
+
+#Abrir ventana de ruta actual
+nautilus "${PWD}"
